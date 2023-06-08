@@ -1,0 +1,56 @@
+#header-nav
+{
+  background-color: rgb(153,153,153) ;
+  border-radius: 0;
+  border: 2px solid black;
+  margin:0;
+}
+h4{
+  font-weight:bold;
+  color:black;
+  opacity:100%;
+  text-shadow : 100 100 100 black 50;
+}
+.navbar-brand h4 {
+  color:black;
+  margin-top : -4px ;
+
+  font-size:1.5em;
+  font-weight:bold;
+  
+  
+}
+#boutton
+     {
+  
+  border-color:black;
+}
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+  border: 1px solid black;
+}
+div section {
+    margin: 10px;
+    padding: 12px;
+}
+ #header-nav .navbar-brand {
+    position: absolute;
+    left: 10px;
+}
+#section-1 , #section-2 ,#section-3 {
+    background-color:#999999;
+}
+#nav-list > li {
+    text-align: center;
+}
+#nav-list a {
+ background-color: white;
+  text-align: center;
+  border-bottom:1px solid black;
+  border-top:1px solid black;
+  font-color:black;
+  margin-top: 10px;
+  
+  
+  
+}
